@@ -19,3 +19,6 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 ### Experimental research
 
 - [[code | R]](https://github.com/tgen/banovichlab) Habermann A, Gutierrez A, Bui L, Yahn S, Winters N, Calvi C, et al. Single-cell RNA sequencing reveals profibrotic roles of distinct epithelial and mesenchymal lineages in pulmonary fibrosis. Sci Adv 2020;6:eaba1972. https://doi.org/10.1101/753806.
+
+
+- [[code | R]](https://github.com/marzamKI/neurogenic_astros) Zamboni, M., Llorens-Bobadilla, E., Magnusson, J.P., and Frisén, J. (2020). A Widespread Neurogenic Potential of Neocortical Astrocytes Is Induced by Injury. Cell Stem Cell 1–13.
