@@ -12,6 +12,8 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code]](https://github.com/faryabib/NatMethods_TooManyCells_analysis) Schwartz GW, Zhou Y, Petrovic J, Fasolino M, Xu L, Shaffer SM, et al. TooManyCells identifies and visualizes relationships of single-cell clades. Nat Methods 2020. https://doi.org/10.1038/s41592-020-0748-5.
 
+### Tutorial
+- [[code | Python]](https://github.com/theislab/single-cell-tutorial) Luecken, M.D., and Theis, F.J. (2019). Current best practices in single‐cell RNA‐seq analysis: a tutorial. Mol. Syst. Biol. 15, e8746.
 
 ### Trajectory analysis
 
