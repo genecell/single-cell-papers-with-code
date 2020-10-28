@@ -18,28 +18,28 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 ### Trajectory analysis
 
-- [[code | Python]](https://github.com/rajewsky-lab/planarian_lineages) Plass, M., Solana, J., Alexander Wolf, F., Ayoub, S., Misios, A., Glažar, P., Obermayer, B., Theis, F.J., Kocks, C., and Rajewsky, N. (2018). Cell type atlas and lineage tree of a whole complex animal by single-cell transcriptomics. Science (80-. ). 360.
+- [[code | Python]](https://github.com/rajewsky-lab/planarian_lineages) Plass, M., Solana, J., Alexander Wolf, F., Ayoub, S., Misios, A., Glažar, P., Obermayer, B., Theis, F.J., Kocks, C., and Rajewsky, N. (2018). **Cell type atlas and lineage tree of a whole complex animal by single-cell transcriptomics.** Science (80-. ). 360.
 
 ### Cell Atlas
 
-- [[code | R]](https://github.com/Single-Cell-Genomics-Group-CNAG-CRG/Tumor-Immune-Cell-Atlas) Nieto, P., Marc Elosua-Bayes, M., Trincado, J.L., Marchese, D., Massoni-Badosa, R., Salvany, M., Henriques, A., Mereu, E., Moutinho, C., Ruiz, S., et al. (2020). A Single-Cell Tumor Immune Atlas for Precision Oncology. BioRxiv 2020.10.26.354829.
+- [[code | R]](https://github.com/Single-Cell-Genomics-Group-CNAG-CRG/Tumor-Immune-Cell-Atlas) Nieto, P., Marc Elosua-Bayes, M., Trincado, J.L., Marchese, D., Massoni-Badosa, R., Salvany, M., Henriques, A., Mereu, E., Moutinho, C., Ruiz, S., et al. (2020). **A Single-Cell Tumor Immune Atlas for Precision Oncology.** BioRxiv 2020.10.26.354829.
 
-- [[code | Python]](https://github.com/czbiohub/tabula-muris-senis) Tabula Muris Consortium. A single-cell transcriptomic atlas characterizes ageing tissues in the mouse. Nature 2020;583. https://doi.org/10.1038/s41586-020-2496-1.
+- [[code | Python]](https://github.com/czbiohub/tabula-muris-senis) Tabula Muris Consortium. **A single-cell transcriptomic atlas characterizes ageing tissues in the mouse.** Nature 2020;583. https://doi.org/10.1038/s41586-020-2496-1.
 
 
 ### Developmental biology
 
-- [[code | R]](https://github.com/ZornLab/Single-cell-transcriptomics-reveals-a-signaling-roadmap-coordinating-endoderm-and-mesoderm-lineage) Han, L., Chaturvedi, P., Kishimoto, K., Koike, H., Nasr, T., Iwasawa, K., Giesbrecht, K., Witcher, P.C., Eicher, A., Haines, L., et al. (2020). Single cell transcriptomics identifies a signaling network coordinating endoderm and mesoderm diversification during foregut organogenesis. Nat. Commun. 11.
+- [[code | R]](https://github.com/ZornLab/Single-cell-transcriptomics-reveals-a-signaling-roadmap-coordinating-endoderm-and-mesoderm-lineage) Han, L., Chaturvedi, P., Kishimoto, K., Koike, H., Nasr, T., Iwasawa, K., Giesbrecht, K., Witcher, P.C., Eicher, A., Haines, L., et al. (2020). **Single cell transcriptomics identifies a signaling network coordinating endoderm and mesoderm diversification during foregut organogenesis.** Nat. Commun. 11.
 
 
 ### Experimental research
 
-- [[code | R]](https://github.com/tgen/banovichlab) Habermann A, Gutierrez A, Bui L, Yahn S, Winters N, Calvi C, et al. Single-cell RNA sequencing reveals profibrotic roles of distinct epithelial and mesenchymal lineages in pulmonary fibrosis. Sci Adv 2020;6:eaba1972. https://doi.org/10.1101/753806.
+- [[code | R]](https://github.com/tgen/banovichlab) Habermann A, Gutierrez A, Bui L, Yahn S, Winters N, Calvi C, et al. **Single-cell RNA sequencing reveals profibrotic roles of distinct epithelial and mesenchymal lineages in pulmonary fibrosis.** Sci Adv 2020;6:eaba1972. https://doi.org/10.1101/753806.
 
 
-- [[code | R]](https://github.com/marzamKI/neurogenic_astros) Zamboni, M., Llorens-Bobadilla, E., Magnusson, J.P., and Frisén, J. (2020). A Widespread Neurogenic Potential of Neocortical Astrocytes Is Induced by Injury. Cell Stem Cell 1–13.
+- [[code | R]](https://github.com/marzamKI/neurogenic_astros) Zamboni, M., Llorens-Bobadilla, E., Magnusson, J.P., and Frisén, J. (2020). **A Widespread Neurogenic Potential of Neocortical Astrocytes Is Induced by Injury.** Cell Stem Cell 1–13.
 
 
-- [[code | Python]](https://github.com/linnarsson-lab/ipynb-lamanno2016) La Manno, G., Gyllborg, D., Codeluppi, S., Nishimura, K., Salto, C., Zeisel, A., Borm, L.E., Stott, S.R.W., Toledo, E.M., Villaescusa, J.C., et al. (2016). Molecular Diversity of Midbrain Development in Mouse, Human, and Stem Cells. Cell 167, 566-580.e19.
+- [[code | Python]](https://github.com/linnarsson-lab/ipynb-lamanno2016) La Manno, G., Gyllborg, D., Codeluppi, S., Nishimura, K., Salto, C., Zeisel, A., Borm, L.E., Stott, S.R.W., Toledo, E.M., Villaescusa, J.C., et al. (2016). **Molecular Diversity of Midbrain Development in Mouse, Human, and Stem Cells.** Cell 167, 566-580.e19.
 
 
