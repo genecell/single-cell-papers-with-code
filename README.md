@@ -6,12 +6,6 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 'Papers with code' here means that authors provide necessary codes to reproduce figures or results in their papers.
 
 
-
-
-### Visualization
-
-- [[code]](https://github.com/faryabib/NatMethods_TooManyCells_analysis) Schwartz GW, Zhou Y, Petrovic J, Fasolino M, Xu L, Shaffer SM, et al. **TooManyCells identifies and visualizes relationships of single-cell clades.** Nat Methods 2020. https://doi.org/10.1038/s41592-020-0748-5.
-
 ### Tutorial
 
 - [[code | Python]](https://github.com/theislab/single-cell-tutorial) Luecken, M.D., and Theis, F.J. (2019). **Current best practices in single‐cell RNA‐seq analysis: a tutorial.** Mol. Syst. Biol. 15, e8746.
@@ -41,5 +35,10 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 
 - [[code | Python]](https://github.com/linnarsson-lab/ipynb-lamanno2016) La Manno, G., Gyllborg, D., Codeluppi, S., Nishimura, K., Salto, C., Zeisel, A., Borm, L.E., Stott, S.R.W., Toledo, E.M., Villaescusa, J.C., et al. (2016). **Molecular Diversity of Midbrain Development in Mouse, Human, and Stem Cells.** Cell 167, 566-580.e19.
+
+
+### Visualization
+
+- [[code]](https://github.com/faryabib/NatMethods_TooManyCells_analysis) Schwartz GW, Zhou Y, Petrovic J, Fasolino M, Xu L, Shaffer SM, et al. **TooManyCells identifies and visualizes relationships of single-cell clades.** Nat Methods 2020. https://doi.org/10.1038/s41592-020-0748-5.
 
 
