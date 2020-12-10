@@ -41,6 +41,9 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | Python]](https://github.com/linnarsson-lab/ipynb-lamanno2016) La Manno, G., Gyllborg, D., Codeluppi, S., Nishimura, K., Salto, C., Zeisel, A., Borm, L.E., Stott, S.R.W., Toledo, E.M., Villaescusa, J.C., et al. (2016). **Molecular Diversity of Midbrain Development in Mouse, Human, and Stem Cells.** Cell 167, 566-580.e19.
 
+- [[code | R]](https://github.com/klarman-cell-observatory/ivPerturbSeq) Jin, X. et al. **In vivo Perturb-Seq reveals neuronal and glial abnormalities associated with autism risk genes.** Science (80-. ). 370, eaaz6063 (2020).
+
+
 
 ### Visualization
 
