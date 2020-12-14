@@ -20,7 +20,8 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | Python]](https://github.com/czbiohub/tabula-muris-senis) Tabula Muris Consortium. **A single-cell transcriptomic atlas characterizes ageing tissues in the mouse.** Nature 2020;583. https://doi.org/10.1038/s41586-020-2496-1.
 
-- [[code | R]](https://github.com/Single-Cell-Genomics-Group-CNAG-CRG/Tumor-Immune-Cell-Atlas) Nieto, P., Elosua-Bayes, M., Trincado, J.L., Marchese, D., Massoni-Badosa, R., Salvany, M., Henriques, A., Mereu, E., Moutinho, C., Ruiz, S., et al. (2020). A Single-Cell Tumor Immune Atlas for Precision Oncology. BioRxiv 2020.10.26.354829.
+- [[code | R]](https://github.com/krasnowlab/HLCA) Travaglini, K. J. et al. A molecular cell atlas of the human lung from single-cell RNA sequencing. Nature 587, 619–625 (2020).
+
 
 
 ### Developmental biology
