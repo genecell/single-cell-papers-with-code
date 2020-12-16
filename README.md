@@ -20,7 +20,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | Python]](https://github.com/czbiohub/tabula-muris-senis) Tabula Muris Consortium. **A single-cell transcriptomic atlas characterizes ageing tissues in the mouse.** Nature 2020;583. https://doi.org/10.1038/s41586-020-2496-1.
 
-- [[code | R]](https://github.com/krasnowlab/HLCA) Travaglini, K. J. et al. A molecular cell atlas of the human lung from single-cell RNA sequencing. Nature 587, 619–625 (2020).
+- [[code | R]](https://github.com/krasnowlab/HLCA) Travaglini, K. J. et al. **A molecular cell atlas of the human lung from single-cell RNA sequencing.** Nature 587, 619–625 (2020).
 
 
 
@@ -30,7 +30,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 ### Neuroscience
 
-- [[code | Matlab]](https://github.com/linnarsson-lab/DG_paper_public) Hochgerner, H., Zeisel, A., Lönnerberg, P., and Linnarsson, S. (2018). Conserved properties of dentate gyrus neurogenesis across postnatal development revealed by single-cell RNA sequencing. Nat. Neurosci. 21.
+- [[code | Matlab]](https://github.com/linnarsson-lab/DG_paper_public) Hochgerner, H., Zeisel, A., Lönnerberg, P., and Linnarsson, S. (2018). **Conserved properties of dentate gyrus neurogenesis across postnatal development revealed by single-cell RNA sequencing.** Nat. Neurosci. 21.
 
 ### Experimental research
 
@@ -44,6 +44,9 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | R]](https://github.com/klarman-cell-observatory/ivPerturbSeq) Jin, X. et al. **In vivo Perturb-Seq reveals neuronal and glial abnormalities associated with autism risk genes.** Science (80-. ). 370, eaaz6063 (2020).
 
+### Spatial transcriptomics
+
+- [[code | R]](https://github.com/saezlab/visium_heart/tree/master/snRNA_seq) Kuppe, C. et al. **Spatial multi-omic map of human myocardial infarction.** bioRxiv 2020.12.08.411686 (2020) doi:10.1101/2020.12.08.411686.
 
 
 ### Visualization
