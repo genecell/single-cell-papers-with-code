@@ -10,6 +10,10 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | Python]](https://github.com/theislab/single-cell-tutorial) Luecken, M.D., and Theis, F.J. (2019). **Current best practices in single‐cell RNA‐seq analysis: a tutorial.** Mol. Syst. Biol. 15, e8746.
 
+### Benchmark study
+
+- [[code | R]](https://github.com/oxwang/fda_scRNA-seq) Chen, W. et al. [**A multicenter study benchmarking single-cell RNA sequencing technologies using reference samples.**](https://www.nature.com/articles/s41587-020-00748-9) Nat. Biotechnol. (2020) doi:10.1038/s41587-020-00748-9.
+
 ### Trajectory analysis
 
 - [[code | Python]](https://github.com/rajewsky-lab/planarian_lineages) Plass, M., Solana, J., Alexander Wolf, F., Ayoub, S., Misios, A., Glažar, P., Obermayer, B., Theis, F.J., Kocks, C., and Rajewsky, N. (2018). **Cell type atlas and lineage tree of a whole complex animal by single-cell transcriptomics.** Science (80-. ). 360.
