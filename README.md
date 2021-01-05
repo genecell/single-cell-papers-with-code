@@ -5,6 +5,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 'Papers with code' here means that authors provide necessary codes to reproduce figures or results in their papers.
 
+(Last update: Jan. 5th, 2021)
 
 ### Tutorial
 
@@ -26,6 +27,8 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | R]](https://github.com/krasnowlab/HLCA) Travaglini, K. J. et al. **A molecular cell atlas of the human lung from single-cell RNA sequencing.** Nature 587, 619–625 (2020).
 
+
+- [[code | Python and R]](https://github.com/haniffalab/HCA_skin) Reynolds, G. et al. [**Poised cell circuits in human skin are activated in disease.**](https://www.biorxiv.org/content/10.1101/2020.11.05.369363v1) bioRxiv 2020.11.05.369363 (2020) doi:10.1101/2020.11.05.369363.
 
 
 ### Developmental biology
