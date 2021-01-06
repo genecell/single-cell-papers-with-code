@@ -5,7 +5,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 'Papers with code' here means that authors provide necessary codes to reproduce figures or results in their papers.
 
-(Last update: Jan. 5th, 2021)
+(Last update: Jan. 6th, 2021)
 
 ### Tutorial
 
@@ -38,6 +38,9 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 ### Neuroscience
 
 - [[code | Matlab]](https://github.com/linnarsson-lab/DG_paper_public) Hochgerner, H., Zeisel, A., Lönnerberg, P., and Linnarsson, S. (2018). **Conserved properties of dentate gyrus neurogenesis across postnatal development revealed by single-cell RNA sequencing.** Nat. Neurosci. 21.
+
+- [[code | R]](https://github.com/alexandrotrevino/brainchromatin) Trevino, A. E. et al. [**Chromatin and gene-regulatory dynamics of the developing human cerebral cortex at single-cell resolution.**](https://www.biorxiv.org/content/10.1101/2020.12.29.424636v2) bioRxiv 2020.12.29.424636 (2021) doi:10.1101/2020.12.29.424636.
+
 
 ### Experimental research
 
