@@ -5,7 +5,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 'Papers with code' here means that authors provide necessary codes to reproduce figures or results in their papers.
 
-(Last update: Jan. 6th, 2021)
+(Last update: Jan. 8th, 2021)
 
 ### Tutorial
 
@@ -59,6 +59,11 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 - [[code | Python]](https://github.com/linnarsson-lab/ipynb-lamanno2016) La Manno, G., Gyllborg, D., Codeluppi, S., Nishimura, K., Salto, C., Zeisel, A., Borm, L.E., Stott, S.R.W., Toledo, E.M., Villaescusa, J.C., et al. (2016). **Molecular Diversity of Midbrain Development in Mouse, Human, and Stem Cells.** Cell 167, 566-580.e19.
 
 - [[code | R]](https://github.com/klarman-cell-observatory/ivPerturbSeq) Jin, X. et al. **In vivo Perturb-Seq reveals neuronal and glial abnormalities associated with autism risk genes.** Science (80-. ). 370, eaaz6063 (2020).
+
+
+### Nanopore
+
+- [[code | Perl, Shell and R]](https://github.com/ucagenomix/sicelore) Lebrigand, K., Magnone, V., Barbry, P. & Waldmann, R. [**High throughput error corrected Nanopore single cell transcriptome sequencing.**](https://www.nature.com/articles/s41467-020-17800-6) Nat. Commun. 11, 4025 (2020).
 
 ### Spatial transcriptomics
 
