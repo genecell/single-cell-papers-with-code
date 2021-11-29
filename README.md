@@ -5,7 +5,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 'Papers with code' here means that authors provide necessary codes to reproduce figures or results in their papers.
 
-(Last update: Jan. 8th, 2021)
+(Last update: Nov. 29th, 2021)
 
 ### Tutorial
 
@@ -15,9 +15,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | R]](https://github.com/oxwang/fda_scRNA-seq) Chen, W. et al. [**A multicenter study benchmarking single-cell RNA sequencing technologies using reference samples.**](https://www.nature.com/articles/s41587-020-00748-9) Nat. Biotechnol. (2020) doi:10.1038/s41587-020-00748-9.
 
-### Trajectory analysis
 
-- [[code | Python]](https://github.com/rajewsky-lab/planarian_lineages) Plass, M., Solana, J., Alexander Wolf, F., Ayoub, S., Misios, A., Glažar, P., Obermayer, B., Theis, F.J., Kocks, C., and Rajewsky, N. (2018). **Cell type atlas and lineage tree of a whole complex animal by single-cell transcriptomics.** Science (80-. ). 360.
 
 ### Cell Atlas
 
@@ -30,6 +28,8 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | Python and R]](https://github.com/haniffalab/HCA_skin) Reynolds, G. et al. [**Poised cell circuits in human skin are activated in disease.**](https://www.biorxiv.org/content/10.1101/2020.11.05.369363v1) bioRxiv 2020.11.05.369363 (2020) doi:10.1101/2020.11.05.369363.
 
+- [[code | Python]](https://github.com/czbiohub/tabula-sapiens) Consortium TTS, Quake SR. The Tabula Sapiens: a multiple organ single cell transcriptomic atlas of humans. bioRxiv 2021; 2021.07.19.452956
+
 
 ### Developmental biology
 
@@ -40,6 +40,9 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 - [[code | Matlab]](https://github.com/linnarsson-lab/DG_paper_public) Hochgerner, H., Zeisel, A., Lönnerberg, P., and Linnarsson, S. (2018). **Conserved properties of dentate gyrus neurogenesis across postnatal development revealed by single-cell RNA sequencing.** Nat. Neurosci. 21.
 
 - [[code | R]](https://github.com/alexandrotrevino/brainchromatin) Trevino, A. E. et al. [**Chromatin and gene-regulatory dynamics of the developing human cerebral cortex at single-cell resolution.**](https://www.biorxiv.org/content/10.1101/2020.12.29.424636v2) bioRxiv 2020.12.29.424636 (2021) doi:10.1101/2020.12.29.424636.
+
+
+- [[code | R]](https://github.com/yuanbell/Single-cell-sequencing-of-subpallium) Yu, Y., Zeng, Z., Xie, D. et al. Interneuron origin and molecular diversity in the human fetal brain. Nat Neurosci (2021). https://doi.org/10.1038/s41593-021-00940-3
 
 ### Immunology
 
@@ -58,16 +61,27 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | Python]](https://github.com/linnarsson-lab/ipynb-lamanno2016) La Manno, G., Gyllborg, D., Codeluppi, S., Nishimura, K., Salto, C., Zeisel, A., Borm, L.E., Stott, S.R.W., Toledo, E.M., Villaescusa, J.C., et al. (2016). **Molecular Diversity of Midbrain Development in Mouse, Human, and Stem Cells.** Cell 167, 566-580.e19.
 
-- [[code | R]](https://github.com/klarman-cell-observatory/ivPerturbSeq) Jin, X. et al. **In vivo Perturb-Seq reveals neuronal and glial abnormalities associated with autism risk genes.** Science (80-. ). 370, eaaz6063 (2020).
+- [[code | R]](https://github.com/klarman-cell-observatory/ivPerturbSeq) Jin, X. et al. **In vivo Perturb-Seq reveals neuronal and glial abnormalities associated with autism risk genes.** Science 370, eaaz6063 (2020).
 
 
 ### Nanopore
 
 - [[code | Perl, Shell and R]](https://github.com/ucagenomix/sicelore) Lebrigand, K., Magnone, V., Barbry, P. & Waldmann, R. [**High throughput error corrected Nanopore single cell transcriptome sequencing.**](https://www.nature.com/articles/s41467-020-17800-6) Nat. Commun. 11, 4025 (2020).
 
+
+### scATAC-seq
+
+- [[code | R, Python]](https://github.com/yal054/snATACutils) Li, Y.E., Preissl, S., Hou, X. et al. An atlas of gene regulatory elements in adult mouse cerebrum. Nature 598, 129–136 (2021). https://doi.org/10.1038/s41586-021-03604-1
+
+
 ### Spatial transcriptomics
 
 - [[code | R]](https://github.com/saezlab/visium_heart/tree/master/snRNA_seq) Kuppe, C. et al. **Spatial multi-omic map of human myocardial infarction.** bioRxiv 2020.12.08.411686 (2020) doi:10.1101/2020.12.08.411686.
+
+
+### Trajectory analysis
+
+- [[code | Python]](https://github.com/rajewsky-lab/planarian_lineages) Plass, M., Solana, J., Alexander Wolf, F., Ayoub, S., Misios, A., Glažar, P., Obermayer, B., Theis, F.J., Kocks, C., and Rajewsky, N. (2018). **Cell type atlas and lineage tree of a whole complex animal by single-cell transcriptomics.** Science (80-. ). 360.
 
 
 ### Visualization
