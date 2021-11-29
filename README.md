@@ -49,7 +49,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | R]](https://github.com/dtm2451/ProgressiveHematopoiesis) Bunis, D. G. et al. [**Single-Cell Mapping of Progressive Fetal-to-Adult Transition in Human Naive T Cells.**](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31562-X) Cell Rep. 34, (2021).
 
-
+- [[code | R]](https://github.com/zhangzlab/covid_balf) Liao, M. et al. [**Single-cell landscape of bronchoalveolar immune cells in patients with COVID-19.**](https://doi.org/10.1038/s41591-020-0901-9) Nat Med 26, 842–844 (2020).
 
 ### Experimental research
 
