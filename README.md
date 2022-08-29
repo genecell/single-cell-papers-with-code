@@ -5,7 +5,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 'Papers with code' here means that authors provide necessary codes to reproduce figures or results in their papers.
 
-(Last update: Nov. 29th, 2021)
+(Last update: Aug. 28th, 2022)
 
 ### Tutorial
 
@@ -14,7 +14,6 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 ### Benchmark study
 
 - [[code | R]](https://github.com/oxwang/fda_scRNA-seq) Chen, W. et al. [**A multicenter study benchmarking single-cell RNA sequencing technologies using reference samples.**](https://www.nature.com/articles/s41587-020-00748-9) Nat. Biotechnol. (2020) doi:10.1038/s41587-020-00748-9.
-
 
 
 ### Cell Atlas
@@ -41,15 +40,13 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | R]](https://github.com/alexandrotrevino/brainchromatin) Trevino, A. E. et al. [**Chromatin and gene-regulatory dynamics of the developing human cerebral cortex at single-cell resolution.**](https://www.biorxiv.org/content/10.1101/2020.12.29.424636v2) bioRxiv 2020.12.29.424636 (2021) doi:10.1101/2020.12.29.424636.
 
-
 - [[code | R]](https://github.com/yuanbell/Single-cell-sequencing-of-subpallium) Yu, Y., Zeng, Z., Xie, D. et al. Interneuron origin and molecular diversity in the human fetal brain. Nat Neurosci (2021). https://doi.org/10.1038/s41593-021-00940-3
+
+- [[code | R]](https://github.com/sestanlab/Cross-species-PFC-snRNA-seq) Ma, S., Skarica, M., Li, Q., Xu, C., Risgaard, R. D., Tebbenkamp, A. T. N., Mato-Blanco, X., Kovner, R., Krsnik, Ž., de Martin, X., Luria, V., Martí-Pérez, X., Liang, D., Karger, A., Schmidt, D. K., Gomez-Sanchez, Z., Qi, C., Gobeske, K. T., Pochareddy, S., … Sestan, N. (2022). [**Molecular and cellular evolution of the primate dorsolateral prefrontal cortex.**](https://www.science.org/doi/10.1126/science.abo7257) Science, eabo7257. https://doi.org/10.1126/science.abo7257
 
 ### Immunology
 
-
 - [[code | R]](https://github.com/dtm2451/ProgressiveHematopoiesis) Bunis, D. G. et al. [**Single-Cell Mapping of Progressive Fetal-to-Adult Transition in Human Naive T Cells.**](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31562-X) Cell Rep. 34, (2021).
-
-
 
 ### Experimental research
 
@@ -81,7 +78,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 ### Trajectory analysis
 
-- [[code | Python]](https://github.com/rajewsky-lab/planarian_lineages) Plass, M., Solana, J., Alexander Wolf, F., Ayoub, S., Misios, A., Glažar, P., Obermayer, B., Theis, F.J., Kocks, C., and Rajewsky, N. (2018). **Cell type atlas and lineage tree of a whole complex animal by single-cell transcriptomics.** Science (80-. ). 360.
+- [[code | Python]](https://github.com/rajewsky-lab/planarian_lineages) Plass, M., Solana, J., Alexander Wolf, F., Ayoub, S., Misios, A., Glažar, P., Obermayer, B., Theis, F.J., Kocks, C., and Rajewsky, N. (2018). **Cell type atlas and lineage tree of a whole complex animal by single-cell transcriptomics.** Science. 360.
 
 
 ### Visualization
