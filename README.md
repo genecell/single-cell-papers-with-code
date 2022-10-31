@@ -5,7 +5,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 'Papers with code' here means that authors provide necessary codes to reproduce figures or results in their papers.
 
-(Last update: Oct. 19th, 2022)
+(Last update: Oct. 31, 2022)
 
 ### Tutorial
 
@@ -44,8 +44,9 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | R]](https://github.com/sestanlab/Cross-species-PFC-snRNA-seq) Ma, S., Skarica, M., Li, Q., Xu, C., Risgaard, R. D., Tebbenkamp, A. T. N., Mato-Blanco, X., Kovner, R., Krsnik, Ž., de Martin, X., Luria, V., Martí-Pérez, X., Liang, D., Karger, A., Schmidt, D. K., Gomez-Sanchez, Z., Qi, C., Gobeske, K. T., Pochareddy, S., … Sestan, N. (2022). [**Molecular and cellular evolution of the primate dorsolateral prefrontal cortex.**](https://www.science.org/doi/10.1126/science.abo7257) Science, eabo7257. https://doi.org/10.1126/science.abo7257
 
-- [[code | R and Python]](https://github.com/quadbiolab/organoid_regulomes) Fleck, J. S., Jansen, S. M. J., Wollny, D., Zenk, F., Seimiya, M., Jain, A., Okamoto, R., Santel, M., He, Z., Camp, J. G., & Treutlein, B. (2022). [**Inferring and perturbing cell fate regulomes in human brain organoids.**](https://github.com/quadbiolab/organoid_regulomes) Nature. https://doi.org/10.1038/s41586-022-05279-8
+- [[code | R and Python]](https://github.com/quadbiolab/organoid_regulomes) Fleck, J. S., Jansen, S. M. J., Wollny, D., Zenk, F., Seimiya, M., Jain, A., Okamoto, R., Santel, M., He, Z., Camp, J. G., & Treutlein, B. (2022). [**Inferring and perturbing cell fate regulomes in human brain organoids.**](https://www.nature.com/articles/s41586-022-05279-8) Nature. https://doi.org/10.1038/s41586-022-05279-8
 
+- [[code | R]](https://github.com/ListerLab/pfc_development/tree/vPublication) Herring, C. A., Simmons, R. K., Freytag, S., Poppe, D., Moffet, J. J. D., Pflueger, J., Buckberry, S., Vargas-Landin, D. B., Clément, O., Echeverría, E. G., Sutton, G. J., Alvarez-Franco, A., Hou, R., Pflueger, C., McDonald, K., Polo, J. M., Forrest, A. R. R., Nowak, A. K., Voineagu, I., … Lister, R. (2022). [**Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution.**](https://www.sciencedirect.com/science/article/pii/S0092867422012582) Cell. https://doi.org/https://doi.org/10.1016/j.cell.2022.09.039
 
 ### Immunology
 
