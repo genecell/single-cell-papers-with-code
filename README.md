@@ -13,7 +13,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 ### Cell Atlas
 
-- [[code | Python]]([https://github.com/Single-Cell-Genomics-Group-CNAG-CRG/Tumor-Immune-Cell-Atlas](https://github.com/CIMA-Project/CIMA)) Yin, J., Zheng, Y., Huang, Z., Zhou, W., Yuan, Y., Cai, P., Bai, Y., Yang, S., Gao, Y., Duan, S., Wang, Y., Xu, Z., Zhang, W., Zhang, X., Wei, Y., Huang, Y., Liu, Y., Wang, W., Yang, T., … Liu, C. (2026). **Chinese Immune Multi-Omics Atlas. Science**, 391(6781), eadt3130. https://doi.org/10.1126/science.adt3130
+- [[code | Python]](https://github.com/CIMA-Project/CIMA) Yin, J., Zheng, Y., Huang, Z., Zhou, W., Yuan, Y., Cai, P., Bai, Y., Yang, S., Gao, Y., Duan, S., Wang, Y., Xu, Z., Zhang, W., Zhang, X., Wei, Y., Huang, Y., Liu, Y., Wang, W., Yang, T., … Liu, C. (2026). **Chinese Immune Multi-Omics Atlas. Science**, 391(6781), eadt3130. https://doi.org/10.1126/science.adt3130
 
 - [[code | R]](https://github.com/Single-Cell-Genomics-Group-CNAG-CRG/Tumor-Immune-Cell-Atlas) Nieto, P., Marc Elosua-Bayes, M., Trincado, J.L., Marchese, D., Massoni-Badosa, R., Salvany, M., Henriques, A., Mereu, E., Moutinho, C., Ruiz, S., et al. (2020). **A Single-Cell Tumor Immune Atlas for Precision Oncology.** BioRxiv 2020.10.26.354829.
 
