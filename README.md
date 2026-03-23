@@ -5,13 +5,15 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 'Papers with code' here means that authors provide necessary codes to reproduce figures or results in their papers.
 
-(Last update: July 13, 2023)
+(Last update: Jan 10, 2026)
 
 ### Tutorial
 
 - [[code | Python]](https://github.com/theislab/single-cell-tutorial) Luecken, M.D., and Theis, F.J. (2019). **Current best practices in single‐cell RNA‐seq analysis: a tutorial.** Mol. Syst. Biol. 15, e8746.
 
 ### Cell Atlas
+
+- [[code | Python]](https://github.com/CIMA-Project/CIMA) Yin, J., Zheng, Y., Huang, Z., Zhou, W., Yuan, Y., Cai, P., Bai, Y., Yang, S., Gao, Y., Duan, S., Wang, Y., Xu, Z., Zhang, W., Zhang, X., Wei, Y., Huang, Y., Liu, Y., Wang, W., Yang, T., … Liu, C. (2026). **Chinese Immune Multi-Omics Atlas. Science**, 391(6781), eadt3130. https://doi.org/10.1126/science.adt3130
 
 - [[code | R]](https://github.com/Single-Cell-Genomics-Group-CNAG-CRG/Tumor-Immune-Cell-Atlas) Nieto, P., Marc Elosua-Bayes, M., Trincado, J.L., Marchese, D., Massoni-Badosa, R., Salvany, M., Henriques, A., Mereu, E., Moutinho, C., Ruiz, S., et al. (2020). **A Single-Cell Tumor Immune Atlas for Precision Oncology.** BioRxiv 2020.10.26.354829.
 
@@ -45,9 +47,13 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | R]](https://github.com/ListerLab/pfc_development/tree/vPublication) Herring, C. A., Simmons, R. K., Freytag, S., Poppe, D., Moffet, J. J. D., Pflueger, J., Buckberry, S., Vargas-Landin, D. B., Clément, O., Echeverría, E. G., Sutton, G. J., Alvarez-Franco, A., Hou, R., Pflueger, C., McDonald, K., Polo, J. M., Forrest, A. R. R., Nowak, A. K., Voineagu, I., … Lister, R. (2022). [**Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution.**](https://www.sciencedirect.com/science/article/pii/S0092867422012582) Cell. https://doi.org/https://doi.org/10.1016/j.cell.2022.09.039
 
+
 ### Immunology
 
 - [[code | R]](https://github.com/dtm2451/ProgressiveHematopoiesis) Bunis, D. G. et al. [**Single-Cell Mapping of Progressive Fetal-to-Adult Transition in Human Naive T Cells.**](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31562-X) Cell Rep. 34, (2021).
+
+- [[code | R]](https://github.com/zhangzlab/covid_balf) Liao, M. et al. [**Single-cell landscape of bronchoalveolar immune cells in patients with COVID-19.**](https://doi.org/10.1038/s41591-020-0901-9) Nat Med 26, 842–844 (2020).
+
 
 ### Human disease
 
@@ -92,4 +98,30 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 ### Cell Type Annotation
 
 - [[code | R and Python]](https://github.com/cafferychen777/mLLMCelltype) Yang, C., Zhang, X., & Chen, J. (2025). **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data.** bioRxiv. https://doi.org/10.1101/2025.04.10.647852
+
+### Perturbation
+
+- [[code | Python]](https://github.com/theislab/scgen) Lotfollahi, M., Wolf, F.A., and Theis, F.J. (2019). **scGen predicts single-cell perturbation responses.** Nat. Methods 16, 715–721. https://doi.org/10.1038/s41592-019-0494-8
+
+- [[code | Python]](https://github.com/cole-trapnell-lab/sci-plex) Srivatsan, S.R., McFaline-Figueroa, J.L., Ramani, V., Saunders, L., Cao, J., Packer, J., Pliner, H.A., Jackson, D.L., Daza, R.M., Christiansen, L., et al. (2020). [**Massively multiplex chemical transcriptomics at single-cell resolution.**](https://www.science.org/doi/10.1126/science.aax6234) Science 367, 45–51.
+
+- [[code | Python]](https://github.com/snap-stanford/GEARS) Roohani, Y., Huang, K., and Leskovec, J. (2023). [**Predicting transcriptional outcomes of novel multigene perturbations with GEARS.**](https://www.nature.com/articles/s41587-023-01905-6) Nat. Biotechnol. 42, 927–935. https://doi.org/10.1038/s41587-023-01905-6
+
+- [[code | Python]](https://github.com/theislab/cpa) Lotfollahi, M., Klimovskaia Susmelj, A., De Donno, C., Hetzel, L., Ji, Y., Ibarra, I.L., Srivastava, S.R., Mohammadi, S., Sun, L., Moor, A.E., et al. (2023). [**Predicting cellular responses to complex perturbations in high-throughput screens.**](https://link.springer.com/article/10.15252/msb.202211517) Mol. Syst. Biol. 19, e11517.
+
+- [[code | Python]](https://github.com/bunnech/cellot) Bunne, C., Stark, S.G., Gut, G., del Castillo, J.S., Levesque, M., Lehmann, K.-V., Pelkmans, L., Krause, A., and Rätsch, G. (2023). [**Learning single-cell perturbation responses using neural optimal transport.**](https://www.nature.com/articles/s41592-023-01969-x) Nat. Methods 20, 1759–1768. https://doi.org/10.1038/s41592-023-01969-x
+
+- [[code | Python]](https://github.com/vandijklab/CINEMA-OT) Dong, M., Wang, B., Wei, J., de O. Fonseca, A.H., Perry, C.J., Frey, A., Ott, F., Ohemeng, K.K., Abolhassani, F., Bhatt, D.L., et al. (2023). [**Causal identification of single-cell experimental perturbation effects with CINEMA-OT.**](https://www.nature.com/articles/s41592-023-02040-5) Nat. Methods 20, 1769–1779.
+
+- [[code | Python]](https://github.com/siyuh/Squidiff) He, Z., Zhu, S., Gao, Y., and Treutlein, B. (2025). [**Squidiff: predicting cellular development and responses to perturbations using a diffusion model.**](https://www.nature.com/articles/s41592-025-02877-y) Nat. Methods 23, 65–77.
+
+- [[code | Python]](https://github.com/theislab/CellFlow) Klein, D., et al. (2025). [**CellFlow enables generative single-cell phenotype modeling with flow matching.**](https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1) bioRxiv 2025.04.11.648220.
+
+- [[code | Python]](https://github.com/ArcInstitute/state) Adduri, S., et al. (2025). [**State: Arc Institute's first virtual cell model.**](https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1) bioRxiv. https://doi.org/10.1101/2025.06.26.661135
+
+- [[code | Python]](https://github.com/bm2-lab/scPerturBench) Wei, Z., et al. (2025). [**Benchmarking algorithms for generalizable single-cell perturbation response prediction.**](https://www.nature.com/articles/s41592-025-02980-0) Nat. Methods 23, 451–464. https://doi.org/10.1038/s41592-025-02980-0
+
+- [[code | Python]](https://github.com/scverse/pertpy) Heumos, L., et al. (2025). [**Pertpy: an end-to-end framework for perturbation analysis.**](https://www.nature.com/articles/s41592-025-02909-7) Nat. Methods 23, 350–359. https://doi.org/10.1038/s41592-025-02909-7
+
+- [[code | R, Python]](https://github.com/const-ae/linear_perturbation_prediction-Paper) Ahlmann-Eltze, C., Huber, W., and Anders, S. (2025). [**Deep-learning-based gene perturbation effect prediction does not yet outperform simple linear baselines.**](https://www.nature.com/articles/s41592-025-02772-6) Nat. Methods 22, 1657–1661. https://doi.org/10.1038/s41592-025-02772-6
 
