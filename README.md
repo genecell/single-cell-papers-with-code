@@ -2,16 +2,15 @@
 
 Single cell papers with code can not only facilitate the reproducibility of biomedical researches, but also promote our skills of analyzing single cell data. 
 
-
 'Papers with code' here means that authors provide necessary codes to reproduce figures or results in their papers.
 
-(Last update: Jan 10, 2026)
+(Last update: Mar 22, 2026)
 
 ### Tutorial
 
 - [[code | Python]](https://github.com/theislab/single-cell-tutorial) Luecken, M.D., and Theis, F.J. (2019). **Current best practices in single‐cell RNA‐seq analysis: a tutorial.** Mol. Syst. Biol. 15, e8746.
 
-### Cell Atlas
+### Cell atlas
 
 - [[code | Python]](https://github.com/CIMA-Project/CIMA) Yin, J., Zheng, Y., Huang, Z., Zhou, W., Yuan, Y., Cai, P., Bai, Y., Yang, S., Gao, Y., Duan, S., Wang, Y., Xu, Z., Zhang, W., Zhang, X., Wei, Y., Huang, Y., Liu, Y., Wang, W., Yang, T., … Liu, C. (2026). **Chinese Immune Multi-Omics Atlas. Science**, 391(6781), eadt3130. https://doi.org/10.1126/science.adt3130
 
@@ -95,7 +94,7 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code]](https://github.com/faryabib/NatMethods_TooManyCells_analysis) Schwartz GW, Zhou Y, Petrovic J, Fasolino M, Xu L, Shaffer SM, et al. **TooManyCells identifies and visualizes relationships of single-cell clades.** Nat Methods 2020. https://doi.org/10.1038/s41592-020-0748-5.
 
-### Cell Type Annotation
+### Cell type annotation
 
 - [[code | R and Python]](https://github.com/cafferychen777/mLLMCelltype) Yang, C., Zhang, X., & Chen, J. (2025). **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data.** bioRxiv. https://doi.org/10.1101/2025.04.10.647852
 
