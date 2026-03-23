@@ -47,9 +47,13 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 - [[code | R]](https://github.com/ListerLab/pfc_development/tree/vPublication) Herring, C. A., Simmons, R. K., Freytag, S., Poppe, D., Moffet, J. J. D., Pflueger, J., Buckberry, S., Vargas-Landin, D. B., Clément, O., Echeverría, E. G., Sutton, G. J., Alvarez-Franco, A., Hou, R., Pflueger, C., McDonald, K., Polo, J. M., Forrest, A. R. R., Nowak, A. K., Voineagu, I., … Lister, R. (2022). [**Human prefrontal cortex gene regulatory dynamics from gestation to adulthood at single-cell resolution.**](https://www.sciencedirect.com/science/article/pii/S0092867422012582) Cell. https://doi.org/https://doi.org/10.1016/j.cell.2022.09.039
 
+
 ### Immunology
 
 - [[code | R]](https://github.com/dtm2451/ProgressiveHematopoiesis) Bunis, D. G. et al. [**Single-Cell Mapping of Progressive Fetal-to-Adult Transition in Human Naive T Cells.**](https://www.cell.com/cell-reports/fulltext/S2211-1247(20)31562-X) Cell Rep. 34, (2021).
+
+- [[code | R]](https://github.com/zhangzlab/covid_balf) Liao, M. et al. [**Single-cell landscape of bronchoalveolar immune cells in patients with COVID-19.**](https://doi.org/10.1038/s41591-020-0901-9) Nat Med 26, 842–844 (2020).
+
 
 ### Human disease
 
