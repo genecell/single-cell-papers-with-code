@@ -56,11 +56,14 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 
 ### Human disease
 
-- [[code | Python and R]](https://github.com/niklaslang/PCLS_perturbations) Lang, N. J., Gote-Schniering, J., Porras-Gonzalez, D., Yang, L., De Sadeleer, L. J., Jentzsch, R. C., Shitov, V. A., Zhou, S., Ansari, M., Agami, A., Mayr, C. H., Kashani, B. H., Chen, Y., Heumos, L., Pestoni, J. C., Geeraerts, E., Anquetil, V., Saniere, L., Wögrath, M., … Schiller, H. B. (2023). [**Ex vivo tissue perturbations coupled to single cell RNA-seq reveal multi-lineage cell circuit dynamics in human lung fibrogenesis.**](https://www.biorxiv.org/content/10.1101/2023.01.16.524219v1) BioRxiv, 2023.01.16.524219. https://doi.org/10.1101/2023.01.16.524219.
+- [[code | Python and R]](https://github.com/niklaslang/PCLS_perturbations) Niklas J. Lang et al. ,[**Ex vivo tissue perturbations coupled to single-cell RNA-seq reveal multilineage cell circuit dynamics in human lung fibrogenesis.**](https://www.science.org/doi/10.1126/scitranslmed.adh0908) Sci. Transl. Med.15,eadh0908(2023).DOI:10.1126/scitranslmed.adh0908
 
 ### scATAC-seq
 
 - [[code | R, Python]](https://github.com/yal054/snATACutils) Li, Y.E., Preissl, S., Hou, X. et al. An atlas of gene regulatory elements in adult mouse cerebrum. Nature 598, 129–136 (2021). https://doi.org/10.1038/s41586-021-03604-1
+
+### snMultiome
+- [[code | Python]](https://github.com/Teichlab/Developing_heart_atlas) Cranley, J., Kanemaru, K., Bayraktar, S. et al. [**Dynamics of human cardiogenesis and its disruption in trisomy 21.**](https://www.nature.com/articles/s41586-026-11125-y) Nature (2026). https://doi.org/10.1038/s41586-026-11125-y
 
 ### Spatial transcriptomics
 
@@ -93,34 +96,3 @@ Single cell papers with code can not only facilitate the reproducibility of biom
 ### Visualization
 
 - [[code]](https://github.com/faryabib/NatMethods_TooManyCells_analysis) Schwartz GW, Zhou Y, Petrovic J, Fasolino M, Xu L, Shaffer SM, et al. **TooManyCells identifies and visualizes relationships of single-cell clades.** Nat Methods 2020. https://doi.org/10.1038/s41592-020-0748-5.
-
-### Cell type annotation
-
-- [[code | R and Python]](https://github.com/cafferychen777/mLLMCelltype) Yang, C., Zhang, X., & Chen, J. (2025). **Large Language Model Consensus Substantially Improves the Cell Type Annotation Accuracy for scRNA-seq Data.** bioRxiv. https://doi.org/10.1101/2025.04.10.647852
-
-### Perturbation
-
-- [[code | Python]](https://github.com/theislab/scgen) Lotfollahi, M., Wolf, F.A., and Theis, F.J. (2019). **scGen predicts single-cell perturbation responses.** Nat. Methods 16, 715–721. https://doi.org/10.1038/s41592-019-0494-8
-
-- [[code | Python]](https://github.com/cole-trapnell-lab/sci-plex) Srivatsan, S.R., McFaline-Figueroa, J.L., Ramani, V., Saunders, L., Cao, J., Packer, J., Pliner, H.A., Jackson, D.L., Daza, R.M., Christiansen, L., et al. (2020). [**Massively multiplex chemical transcriptomics at single-cell resolution.**](https://www.science.org/doi/10.1126/science.aax6234) Science 367, 45–51.
-
-- [[code | Python]](https://github.com/snap-stanford/GEARS) Roohani, Y., Huang, K., and Leskovec, J. (2023). [**Predicting transcriptional outcomes of novel multigene perturbations with GEARS.**](https://www.nature.com/articles/s41587-023-01905-6) Nat. Biotechnol. 42, 927–935. https://doi.org/10.1038/s41587-023-01905-6
-
-- [[code | Python]](https://github.com/theislab/cpa) Lotfollahi, M., Klimovskaia Susmelj, A., De Donno, C., Hetzel, L., Ji, Y., Ibarra, I.L., Srivastava, S.R., Mohammadi, S., Sun, L., Moor, A.E., et al. (2023). [**Predicting cellular responses to complex perturbations in high-throughput screens.**](https://link.springer.com/article/10.15252/msb.202211517) Mol. Syst. Biol. 19, e11517.
-
-- [[code | Python]](https://github.com/bunnech/cellot) Bunne, C., Stark, S.G., Gut, G., del Castillo, J.S., Levesque, M., Lehmann, K.-V., Pelkmans, L., Krause, A., and Rätsch, G. (2023). [**Learning single-cell perturbation responses using neural optimal transport.**](https://www.nature.com/articles/s41592-023-01969-x) Nat. Methods 20, 1759–1768. https://doi.org/10.1038/s41592-023-01969-x
-
-- [[code | Python]](https://github.com/vandijklab/CINEMA-OT) Dong, M., Wang, B., Wei, J., de O. Fonseca, A.H., Perry, C.J., Frey, A., Ott, F., Ohemeng, K.K., Abolhassani, F., Bhatt, D.L., et al. (2023). [**Causal identification of single-cell experimental perturbation effects with CINEMA-OT.**](https://www.nature.com/articles/s41592-023-02040-5) Nat. Methods 20, 1769–1779.
-
-- [[code | Python]](https://github.com/siyuh/Squidiff) He, Z., Zhu, S., Gao, Y., and Treutlein, B. (2025). [**Squidiff: predicting cellular development and responses to perturbations using a diffusion model.**](https://www.nature.com/articles/s41592-025-02877-y) Nat. Methods 23, 65–77.
-
-- [[code | Python]](https://github.com/theislab/CellFlow) Klein, D., et al. (2025). [**CellFlow enables generative single-cell phenotype modeling with flow matching.**](https://www.biorxiv.org/content/10.1101/2025.04.11.648220v1) bioRxiv 2025.04.11.648220.
-
-- [[code | Python]](https://github.com/ArcInstitute/state) Adduri, S., et al. (2025). [**State: Arc Institute's first virtual cell model.**](https://www.biorxiv.org/content/10.1101/2025.06.26.661135v1) bioRxiv. https://doi.org/10.1101/2025.06.26.661135
-
-- [[code | Python]](https://github.com/bm2-lab/scPerturBench) Wei, Z., et al. (2025). [**Benchmarking algorithms for generalizable single-cell perturbation response prediction.**](https://www.nature.com/articles/s41592-025-02980-0) Nat. Methods 23, 451–464. https://doi.org/10.1038/s41592-025-02980-0
-
-- [[code | Python]](https://github.com/scverse/pertpy) Heumos, L., et al. (2025). [**Pertpy: an end-to-end framework for perturbation analysis.**](https://www.nature.com/articles/s41592-025-02909-7) Nat. Methods 23, 350–359. https://doi.org/10.1038/s41592-025-02909-7
-
-- [[code | R, Python]](https://github.com/const-ae/linear_perturbation_prediction-Paper) Ahlmann-Eltze, C., Huber, W., and Anders, S. (2025). [**Deep-learning-based gene perturbation effect prediction does not yet outperform simple linear baselines.**](https://www.nature.com/articles/s41592-025-02772-6) Nat. Methods 22, 1657–1661. https://doi.org/10.1038/s41592-025-02772-6
-
